@@ -1,7 +1,7 @@
 # 👋 Hey, I'm **AliasNull**  
 
 
-```
+<pre>
 .s5SSSs.                                    .s    s.                                
       SS. .s        s.  .s5SSSs.  .s5SSSs.        SS. .s    s.  .s        .s        
 sS    S%S           SS.       SS.       SS. sSs.  S%S       SS.                     
@@ -12,7 +12,7 @@ SS    `:; SS        `:; SS    `:;       `:; SS    `:; SS    `:; SS        SS
 SS    ;,. SS    ;,. ;,. SS    ;,. .,;   ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
 :;    ;:' `:;;;;;:' ;:' :;    ;:' `:;;;;;:' :;    ;:' `:;;;;;:' `:;;;;;:' `:;;;;;:'
 
-```
+</pre>
                                                                                     
 
 I'm a developer and crypto enthusiast who has been exploring the blockchain space since **2018**.  
