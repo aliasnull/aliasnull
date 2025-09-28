@@ -1,6 +1,7 @@
 # 👋 Hey, I'm **AliasNull**  
 
 
+```
 .s5SSSs.                                    .s    s.                                
       SS. .s        s.  .s5SSSs.  .s5SSSs.        SS. .s    s.  .s        .s        
 sS    S%S           SS.       SS.       SS. sSs.  S%S       SS.                     
@@ -9,7 +10,9 @@ SSSs. S%S SS        S%S SSSs. S%S `:;;;;.   SS `S.S%S SS    S%S SS        SS
 SS    S%S SS        S%S SS    S%S       ;;. SS  `sS%S SS    S%S SS        SS        
 SS    `:; SS        `:; SS    `:;       `:; SS    `:; SS    `:; SS        SS        
 SS    ;,. SS    ;,. ;,. SS    ;,. .,;   ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
-:;    ;:' `:;;;;;:' ;:' :;    ;:' `:;;;;;:' :;    ;:' `:;;;;;:' `:;;;;;:' `:;;;;;:' 
+:;    ;:' `:;;;;;:' ;:' :;    ;:' `:;;;;;:' :;    ;:' `:;;;;;:' `:;;;;;:' `:;;;;;:'
+
+```
                                                                                     
 
 I'm a developer and crypto enthusiast who has been exploring the blockchain space since **2018**.  
