@@ -7,8 +7,17 @@
 /_/ \_\_|_\__,_\___|_|\_|_|_\_|_|_|
 ```
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliasNull&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliasNull&layout=compact&langs_count=8)
+
+
 I'm a developer with a passion for crafting high-performance web experiences. While I have a background in blockchain, my core focus is now on modern web design and pushing the limits of the Blogger platform.  
 I enjoy building, experimenting, and sharing open-source projects related to:
+
+
+![GitHub Issues](https://img.shields.io/github/issues/AliasNull?color=brightgreen)
+![GitHub Forks](https://img.shields.io/github/forks/AliasNull?style=social)
+![License](https://img.shields.io/github/license/AliasNull/GridSense)
 
 - 🎨 **Custom Blogger Themes** – From scratch XML development to modernization.
 - 📄 **Landing Pages** – High-converting, responsive, and lightweight designs.
