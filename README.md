@@ -10,7 +10,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliasNull&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliasNull&layout=compact&langs_count=8)
 
-
 I'm a developer with a passion for crafting high-performance web experiences. While I have a background in blockchain, my core focus is now on modern web design and pushing the limits of the Blogger platform.  
 I enjoy building, experimenting, and sharing open-source projects related to:
 
