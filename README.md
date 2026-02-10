@@ -45,6 +45,6 @@ Design is about more than just aesthetics; it's about accessibility and speed. I
 ### 📫 Connect with me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AliasNulll)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aliasnulll)
-- 💻 **GitHub Discussions or Issues** – happy to collaborate!
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliasNull)
 
 ⭐️ If you find my work useful, consider giving it a star or contributing!
