@@ -42,9 +42,9 @@ I enjoy building, experimenting, and sharing open-source projects related to:
 ## 🌍 Beyond Code
 Design is about more than just aesthetics; it's about accessibility and speed. I am dedicated to proving that platforms like Blogger can still compete with modern CMSs when handled correctly. My goal is to build beautiful, functional tools that help creators publish their best work.
 
-## 📫 Connect with me
-- 🐦 **Twitter/X**: [@AliasNulll](https://twitter.com/AliasNulll)
-- 💬 **Telegram**: [@AliasNulll](https://t.me/AliasNulll)
+### 📫 Connect with me
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AliasNulll)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aliasnulll)
 - 💻 **GitHub Discussions or Issues** – happy to collaborate!
 
 ⭐️ If you find my work useful, consider giving it a star or contributing!
