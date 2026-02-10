@@ -10,7 +10,7 @@ SS    S%S SS        S%S SS    S%S       ;;. SS  `sS%S SS    S%S SS        SS
 SS    `:; SS        `:; SS    `:;       `:; SS    `:; SS    `:; SS        SS        
 SS    ;,. SS    ;,. ;,. SS    ;,. .,;   ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
 :;    ;:' `:;;;;;:' ;:' :;    ;:' `:;;;;;:' :;    ;:' `:;;;;;:' `:;;;;;:' `:;;;;;:'
-
+`
                                                                                     
 
 I'm a developer with a passion for crafting high-performance web experiences. While I have a background in blockchain, my core focus is now on **modern web design** and pushing the limits of the **Blogger** platform.
@@ -53,8 +53,9 @@ Design is about more than just aesthetics; it's about accessibility and speed. I
 
 ### 📫 Connect with me
 - 🐦 Twitter/X: [@AliasNulll](https://x.com/AliasNulll)  
-- 💬 Telegram: [@AliasNulll](https://telegram.me/aliasnulll)  
+- 💬 Telegram: [@AliasNulll](https://t.me/aliasnulll)  
 - 💻 GitHub Discussions or Issues – happy to collaborate!  
+
 
 ---
 
