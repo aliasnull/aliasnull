@@ -1,4 +1,6 @@
-# 👋 Hey, I'm **AliasNull** <pre>
+# 👋 Hey, I'm **AliasNull**
+
+```text
 .s5SSSs.                                    .s    s.                                
       SS. .s        s.  .s5SSSs.  .s5SSSs.        SS. .s    s.  .s        .s        
 sS    S%S           SS.       SS.       SS. sSs.  S%S       SS.                     
@@ -9,7 +11,6 @@ SS    `:; SS        `:; SS    `:;       `:; SS    `:; SS    `:; SS        SS
 SS    ;,. SS    ;,. ;,. SS    ;,. .,;   ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. 
 :;    ;:' `:;;;;;:' ;:' :;    ;:' `:;;;;;:' :;    ;:' `:;;;;;:' `:;;;;;:' `:;;;;;:'
 
-</pre>
                                                                                     
 
 I'm a developer with a passion for crafting high-performance web experiences. While I have a background in blockchain, my core focus is now on **modern web design** and pushing the limits of the **Blogger** platform.
