@@ -1,7 +1,4 @@
-# 👋 Hey, I'm **AliasNull**  
-
-
-<pre>
+# 👋 Hey, I'm **AliasNull** <pre>
 .s5SSSs.                                    .s    s.                                
       SS. .s        s.  .s5SSSs.  .s5SSSs.        SS. .s    s.  .s        .s        
 sS    S%S           SS.       SS.       SS. sSs.  S%S       SS.                     
@@ -15,29 +12,30 @@ SS    ;,. SS    ;,. ;,. SS    ;,. .,;   ;,. SS    ;,. SS    ;,. SS    ;,. SS    
 </pre>
                                                                                     
 
-I'm a developer and crypto enthusiast who has been exploring the blockchain space since **2018**.  
+I'm a developer with a passion for crafting high-performance web experiences. While I have a background in blockchain, my core focus is now on **modern web design** and pushing the limits of the **Blogger** platform.
+
 I enjoy building, experimenting, and sharing open-source projects related to:  
 
-- ⚡ **Crypto & Blockchain** – from protocols to on-chain tools  
-- 🌐 **Decentralized Apps (dApps)** – practical utilities and experiments  
-- 🖥️ **Node Running & Infrastructure** – validators, RPCs, and automation scripts  
-- 🛠️ **Developer Tools** – helping builders explore Web3 more easily  
+- 🎨 **Custom Blogger Themes** – From scratch XML development to modernization.  
+- 📄 **Landing Pages** – High-converting, responsive, and lightweight designs.  
+- 🛠️ **Blogger Development** – Advanced customization, widgets, and scripts.  
+- ⚡ **Web Performance** – SEO optimization and speed enhancements.  
 
 ---
 
 ## 🚀 What I Do
-- Run and maintain crypto **nodes, validators, and testnet setups**.  
-- Build **dApps and smart contract experiments**.  
-- Share **guides, utilities, and scripts** for the community.  
-- Contribute to the growth of **open-source blockchain ecosystems**.  
+- Design and develop **unique, responsive Blogger templates**.  
+- Create **stand-alone landing pages** for products and portfolios.  
+- Port modern HTML/CSS templates into **functional Blogger XML**.  
+- Write **scripts and hacks** to extend the functionality of legacy platforms.  
 
 ---
 
 ## 🧑‍💻 Current Focus
-- Exploring **cross-chain bridges** and interoperability.  
-- Experimenting with **tokenomics and governance models**.  
-- Testing **layer-1 & layer-2 infrastructures**.  
-- Documenting and publishing my journey here on GitHub.  
+- Developing a suite of **minimalist, SEO-ready Blogger themes**.  
+- Experimenting with **modern CSS frameworks** within the Blogger ecosystem.  
+- Building **dynamic landing pages** that prioritize user experience.  
+- Documenting my development journey and sharing resources here on GitHub.  
 
 ---
 
@@ -48,7 +46,7 @@ I enjoy building, experimenting, and sharing open-source projects related to:
 ---
 
 ## 🌍 Beyond Code
-Crypto isn’t just code to me—it’s a movement. Since 2018, I’ve been diving deep into blockchain technology, watching it evolve, and contributing where I can. My goal is to keep building **useful tools**, share knowledge, and help more people get hands-on with Web3.  
+Design is about more than just aesthetics; it's about accessibility and speed. I am dedicated to proving that platforms like Blogger can still compete with modern CMSs when handled correctly. My goal is to build **beautiful, functional tools** that help creators publish their best work.  
 
 ---
 
